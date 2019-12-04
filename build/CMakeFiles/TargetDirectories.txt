@@ -1,0 +1,4 @@
+/media/lietang/phenobot data/FLIR_stereo/build/CMakeFiles/rebuild_cache.dir
+/media/lietang/phenobot data/FLIR_stereo/build/CMakeFiles/StereoTest.dir
+/media/lietang/phenobot data/FLIR_stereo/build/CMakeFiles/edit_cache.dir
+/media/lietang/phenobot data/FLIR_stereo/build/CMakeFiles/headers.dir
